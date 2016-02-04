@@ -1,1 +1,9 @@
 Exception in thread "main" org.springframework.ldap.AuthenticationNotSupportedException: [LDAP: error code 8 - 00002028: LdapErr: DSID-0C0901FC, comment: The server requires binds to turn on integrity checking if SSL\TLS are not already active on the connection, data 0, v1db1
+
+<ldap:context-source url="ldap://MWEI8C7.fema.net:389"
+						 base="OU=DR,OU=BusinessObjects,OU=EnterpriseGroups,OU=EnterpriseServers,DC=fema,DC=net"
+						 username="CN=FEMA-SVC-bobjsvc1,OU=ServiceAccounts,OU=MW,DC=fema,DC=net"
+						 password="CW0=8ofa"
+						 authentication-strategy-ref="simpleDirContextAuthenticationStrategy"
+						 native-pooling="true"/>
+
