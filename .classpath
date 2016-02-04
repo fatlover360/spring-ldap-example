@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/.m2/repository/org/springframework/spring-context/4.1.5.RELEASE/spring-context-4.1.5.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-context-4.1.5.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context"/>
+			<attribute name="maven.version" value="4.1.5.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-data-commons-1.7.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-ldap-core-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-ldap-core-tiger-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-ldap-ldif-batch-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-ldap-ldif-core-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-ldap-test-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/slf4j-api-1.7.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tariq Ahsan/Downloads/Spring Library/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
