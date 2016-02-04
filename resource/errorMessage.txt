@@ -1,0 +1,1 @@
+Exception in thread "main" org.springframework.ldap.AuthenticationNotSupportedException: [LDAP: error code 8 - 00002028: LdapErr: DSID-0C0901FC, comment: The server requires binds to turn on integrity checking if SSL\TLS are not already active on the connection, data 0, v1db1
