@@ -7,3 +7,23 @@ Exception in thread "main" org.springframework.ldap.AuthenticationNotSupportedEx
 						 authentication-strategy-ref="simpleDirContextAuthenticationStrategy"
 						 native-pooling="true"/>
 
+
+
+Exception in thread "main" org.springframework.ldap.CommunicationException: simple bind failed: MWEI8C7.fema.net:636; nested exception is javax.naming.CommunicationException: simple bind failed: MWEI8C7.fema.net:636 [Root exception is javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]
+
+<bean id="contextSource"
+          class="org.springframework.ldap.core.support.LdapContextSource">
+        <!-- <property name="url" value="ldap://YOUR_SERVER:389"/> -->
+        <property name="url" value="ldaps://MWEI8C7.fema.net:636"/>
+        <property name="base" value="OU=PRD,DC=rubix,DC=nl"/>
+        <property name="userDn" value="CN=FEMA-SVC-bobjsvc1,OU=ServiceAccounts,OU=MW,DC=fema,DC=net"/>
+        <property name="password" value="CW0=8ofa"/>
+        <property name="referral" value="follow"/>
+        <property name="baseEnvironmentProperties">
+            <map>
+                <entry key="java.naming.security.authentication" value="simple"/>
+            </map>
+        </property>
+    </bean>
+
+
