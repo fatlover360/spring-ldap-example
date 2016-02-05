@@ -1,0 +1,278 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Windows\system32>cd C:\Program Files\Java\jdk1.7.0_79\jre\bin
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>dir keytool
+ Volume in drive C has no label.
+ Volume Serial Number is B6BC-8FF3
+
+ Directory of C:\Program Files\Java\jdk1.7.0_79\jre\bin
+
+File Not Found
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>dir
+ Volume in drive C has no label.
+ Volume Serial Number is B6BC-8FF3
+
+ Directory of C:\Program Files\Java\jdk1.7.0_79\jre\bin
+
+02/04/2016  04:08 PM    <DIR>          .
+02/04/2016  04:08 PM    <DIR>          ..
+01/21/2016  04:10 PM            21,384 attach.dll
+01/21/2016  04:10 PM         1,504,648 awt.dll
+02/04/2016  04:08 PM                 0 cert.pem
+01/21/2016  04:10 PM           159,624 dcpr.dll
+01/21/2016  04:10 PM            85,384 decora-sse.dll
+01/21/2016  04:10 PM           493,448 deploy.dll
+02/04/2016  04:08 PM    <DIR>          dtplugin
+01/21/2016  04:10 PM            30,088 dt_shmem.dll
+01/21/2016  04:10 PM            24,968 dt_socket.dll
+01/21/2016  04:10 PM           136,584 eula.dll
+01/21/2016  04:10 PM           273,288 fontmanager.dll
+01/21/2016  04:10 PM           191,880 fxplugins.dll
+01/21/2016  04:10 PM           197,512 glass.dll
+01/21/2016  04:10 PM           552,840 glib-lite.dll
+01/21/2016  04:10 PM           634,760 gstreamer-lite.dll
+01/21/2016  04:10 PM           158,600 hprof.dll
+01/21/2016  04:10 PM           122,760 instrument.dll
+01/21/2016  04:10 PM            19,336 j2pcsc.dll
+01/21/2016  04:10 PM            21,384 jaas_nt.dll
+01/21/2016  04:10 PM            55,688 jabswitch.exe
+01/21/2016  04:10 PM            16,264 java-rmi.exe
+01/21/2016  04:10 PM           150,920 java.dll
+01/21/2016  04:10 PM           189,320 java.exe
+01/21/2016  04:10 PM           143,240 JavaAccessBridge-64.dll
+01/21/2016  04:10 PM           168,960 javacpl.cpl
+01/21/2016  04:10 PM            76,168 javacpl.exe
+01/21/2016  04:10 PM           320,392 javafx-font.dll
+01/21/2016  04:10 PM           229,768 javafx-iio.dll
+01/21/2016  04:10 PM           189,320 javaw.exe
+01/21/2016  04:10 PM           320,392 javaws.exe
+01/21/2016  04:10 PM            30,088 java_crw_demo.dll
+01/21/2016  04:10 PM            14,728 jawt.dll
+01/21/2016  04:10 PM            15,752 JAWTAccessBridge-64.dll
+01/21/2016  04:10 PM            64,392 JdbcOdbc.dll
+01/21/2016  04:10 PM           202,632 jdwp.dll
+01/21/2016  04:10 PM            22,408 jfr.dll
+01/21/2016  04:10 PM           133,512 jfxmedia.dll
+01/21/2016  04:10 PM        14,867,336 jfxwebkit.dll
+01/21/2016  04:10 PM           158,088 jli.dll
+01/21/2016  04:10 PM           288,136 jp2iexp.dll
+01/21/2016  04:10 PM            99,208 jp2launcher.exe
+01/21/2016  04:10 PM            20,360 jp2native.dll
+01/21/2016  04:10 PM           211,848 jp2ssv.dll
+01/21/2016  04:10 PM           185,736 jpeg.dll
+01/21/2016  04:10 PM            18,824 jsdt.dll
+01/21/2016  04:10 PM            35,720 jsound.dll
+01/21/2016  04:10 PM            31,624 jsoundds.dll
+01/21/2016  04:10 PM           220,552 kcms.dll
+01/21/2016  04:10 PM            16,264 keytool.exe
+01/21/2016  04:10 PM            16,264 kinit.exe
+01/21/2016  04:10 PM            16,264 klist.exe
+01/21/2016  04:10 PM            16,264 ktab.exe
+01/21/2016  04:10 PM           640,392 libxml2.dll
+01/21/2016  04:10 PM           209,800 libxslt.dll
+01/21/2016  04:10 PM            34,696 management.dll
+01/21/2016  04:10 PM           653,704 mlib_image.dll
+01/21/2016  04:10 PM           829,264 msvcr100.dll
+01/21/2016  04:10 PM            93,064 net.dll
+01/21/2016  04:10 PM            59,272 nio.dll
+01/21/2016  04:10 PM            19,336 npt.dll
+01/21/2016  04:10 PM            16,776 orbd.exe
+01/21/2016  04:10 PM            16,264 pack200.exe
+01/21/2016  04:10 PM    <DIR>          plugin2
+01/21/2016  04:10 PM            16,264 policytool.exe
+01/21/2016  04:10 PM            54,664 prism-d3d.dll
+01/21/2016  04:10 PM            16,264 rmid.exe
+01/21/2016  04:10 PM            16,264 rmiregistry.exe
+01/21/2016  04:10 PM            52,104 sawindbg.dll
+01/21/2016  04:10 PM    <DIR>          server
+01/21/2016  04:10 PM            16,264 servertool.exe
+01/21/2016  04:10 PM           209,800 splashscreen.dll
+01/21/2016  04:10 PM           553,864 ssv.dll
+01/21/2016  04:10 PM            65,416 ssvagent.exe
+01/21/2016  04:10 PM           135,048 sunec.dll
+01/21/2016  04:10 PM            31,624 sunmscapi.dll
+01/21/2016  04:10 PM           253,320 t2k.dll
+01/21/2016  04:10 PM            16,776 tnameserv.exe
+01/21/2016  04:10 PM            69,000 unpack.dll
+01/21/2016  04:10 PM           180,616 unpack200.exe
+01/21/2016  04:10 PM            49,032 verify.dll
+01/21/2016  04:10 PM            24,456 w2k_lsa_auth.dll
+01/21/2016  04:10 PM           110,984 WindowsAccessBridge-64.dll
+01/21/2016  04:10 PM           192,392 wsdetect.dll
+01/21/2016  04:10 PM            75,144 zip.dll
+              81 File(s)     27,886,784 bytes
+               5 Dir(s)  418,203,934,720 bytes free
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -list -keystore C:\Users\jsoul
+e\Desktop\adtrust.jks
+Enter keystore password:
+
+Keystore type: JKS
+Keystore provider: SUN
+
+Your keystore contains 1 entry
+
+adldap, Feb 4, 2016, trustedCertEntry,
+Certificate fingerprint (SHA1): 61:5B:FE:BC:70:22:CA:14:96:16:FF:BC:D6:CB:AE:6D:
+B7:3B:84:8A
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -exportcert -keystore C:\Users
+\jsoule\Desktop\adtrust.jks -alias isim_ldap_signer_cert cert.pem
+Illegal option:  cert.pem
+keytool -exportcert [OPTION]...
+
+Exports certificate
+
+Options:
+
+ -rfc                            output in RFC style
+ -alias <alias>                  alias name of the entry to process
+ -file <filename>                output file name
+ -keystore <keystore>            keystore name
+ -storepass <arg>                keystore password
+ -storetype <storetype>          keystore type
+ -providername <providername>    provider name
+ -providerclass <providerclass>  provider class name
+ -providerarg <arg>              provider argument
+ -providerpath <pathlist>        provider classpath
+ -v                              verbose output
+ -protected                      password through protected mechanism
+
+Use "keytool -help" for all available commands
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -exportcert -keystore C:\Users
+\jsoule\Desktop\adtrust.jks -alias isim_ldap_signer_cert -file cert.pem
+Enter keystore password:
+keytool error: java.lang.Exception: Alias <isim_ldap_signer_cert> does not exist
+
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -exportcert -keystore C:\Users
+\jsoule\Desktop\adtrust.jks -adldap -file cert.pem
+Illegal option:  -adldap
+keytool -exportcert [OPTION]...
+
+Exports certificate
+
+Options:
+
+ -rfc                            output in RFC style
+ -alias <alias>                  alias name of the entry to process
+ -file <filename>                output file name
+ -keystore <keystore>            keystore name
+ -storepass <arg>                keystore password
+ -storetype <storetype>          keystore type
+ -providername <providername>    provider name
+ -providerclass <providerclass>  provider class name
+ -providerarg <arg>              provider argument
+ -providerpath <pathlist>        provider classpath
+ -v                              verbose output
+ -protected                      password through protected mechanism
+
+Use "keytool -help" for all available commands
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -exportcert -keystore C:\Users
+\jsoule\Desktop\adtrust.jks -alias adldap -file cert.pem
+Enter keystore password:
+Certificate stored in file <cert.pem>
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -importcert -trustcacerts -fil
+e cert.pem -alias adldap -keystore ..\lib\security\cacerts
+Enter keystore password:
+keytool error: java.io.IOException: Keystore was tampered with, or password was
+incorrect
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -importcert -trustcacerts -fil
+e cert.pem -alias adldap -keystore ..\lib\security\cacerts
+Enter keystore password:
+keytool error: java.io.IOException: Keystore was tampered with, or password was
+incorrect
+
+C:\Program Files\Java\jdk1.7.0_79\jre\bin>keytool -importcert -trustcacerts -fil
+e cert.pem -alias adldap -keystore ..\lib\security\cacerts
+Enter keystore password:
+Owner: CN=ccsisaacad-11g.femastt.net
+Issuer: CN=femastt-CCSISAACAD-11G-CA, DC=femastt, DC=net
+Serial number: 1eb76309000000000018
+Valid from: Tue Dec 29 16:07:21 EST 2015 until: Wed Dec 28 16:07:21 EST 2016
+Certificate fingerprints:
+         MD5:  0E:6A:4A:A4:A5:47:A7:61:E3:5E:5B:20:E7:91:36:E5
+         SHA1: 61:5B:FE:BC:70:22:CA:14:96:16:FF:BC:D6:CB:AE:6D:B7:3B:84:8A
+         SHA256: 3A:0F:3B:67:1D:76:B2:29:15:44:5B:2B:5A:14:DC:E1:92:06:9E:9D:B5:
+36:8E:40:AB:F4:28:C6:A7:C4:5B:6E
+         Signature algorithm name: SHA1withRSA
+         Version: 3
+
+Extensions:
+
+#1: ObjectId: 1.2.840.113549.1.9.15 Criticality=false
+0000: 30 69 30 0E 06 08 2A 86   48 86 F7 0D 03 02 02 02  0i0...*.H.......
+0010: 00 80 30 0E 06 08 2A 86   48 86 F7 0D 03 04 02 02  ..0...*.H.......
+0020: 00 80 30 0B 06 09 60 86   48 01 65 03 04 01 2A 30  ..0...`.H.e...*0
+0030: 0B 06 09 60 86 48 01 65   03 04 01 2D 30 0B 06 09  ...`.H.e...-0...
+0040: 60 86 48 01 65 03 04 01   02 30 0B 06 09 60 86 48  `.H.e....0...`.H
+0050: 01 65 03 04 01 05 30 07   06 05 2B 0E 03 02 07 30  .e....0...+....0
+0060: 0A 06 08 2A 86 48 86 F7   0D 03 07                 ...*.H.....
+
+
+#2: ObjectId: 1.3.6.1.4.1.311.20.2 Criticality=false
+0000: 1E 20 00 44 00 6F 00 6D   00 61 00 69 00 6E 00 43  . .D.o.m.a.i.n.C
+0010: 00 6F 00 6E 00 74 00 72   00 6F 00 6C 00 6C 00 65  .o.n.t.r.o.l.l.e
+0020: 00 72                                              .r
+
+
+#3: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: caIssuers
+   accessLocation: URIName: ldap:///CN=femastt-CCSISAACAD-11G-CA,CN=AIA,CN=Publi
+c%20Key%20Services,CN=Services,CN=Configuration,DC=femastt,DC=net?cACertificate?
+base?objectClass=certificationAuthority
+]
+]
+
+#4: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 2E F5 E2 17 57 CA DB 1E   B6 59 16 98 B4 85 A0 52  ....W....Y.....R
+0010: E7 0F F4 13                                        ....
+]
+]
+
+#5: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: ldap:///CN=femastt-CCSISAACAD-11G-CA,CN=ccsisaacad-11g,CN=CDP,CN=
+Public%20Key%20Services,CN=Services,CN=Configuration,DC=femastt,DC=net?certifica
+teRevocationList?base?objectClass=cRLDistributionPoint]
+]]
+
+#6: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  clientAuth
+  serverAuth
+]
+
+#7: ObjectId: 2.5.29.15 Criticality=false
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+#8: ObjectId: 2.5.29.17 Criticality=false
+SubjectAlternativeName [
+  Other-Name: Unrecognized ObjectIdentifier: 1.3.6.1.4.1.311.25.1
+  DNSName: ccsisaacad-11g.femastt.net
+]
+
+#9: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A8 4E AC BC 5A 9D AF B3   7D BD 05 DC D3 3A 3B DA  .N..Z........:;.
+0010: 24 2B DA 0B                                        $+..
+]
+]
+
+Trust this certificate? [no]:
