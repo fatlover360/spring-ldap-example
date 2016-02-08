@@ -1,0 +1,8 @@
+simple bind failed: ccsisaacad-11g.femastt.net:636; 
+nested exception is javax.naming.CommunicationException: 
+simple bind failed: ccsisaacad-11g.femastt.net:636 
+[Root exception is javax.net.ssl.SSLHandshakeException: 
+sun.security.validator.ValidatorException: 
+PKIX path building failed: 
+sun.security.provider.certpath.SunCertPathBuilderException: 
+unable to find valid certification path to requested target]
